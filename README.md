@@ -8,7 +8,7 @@ To get this to work, all you have to do is follow the instructions.
 
 ## Instructions
 
-1. Clone the repository using git clone https://github.com/hoppersroppers/makeDemo.git
+1. Clone the repository using git clone https://github.com/VIS-dev-al/makeDemo.git
 2. cd into the directory
 3. Run the command "make"
 
